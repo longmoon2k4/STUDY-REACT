@@ -1,14 +1,10 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
+import SafetyBroadcastCard from './lessons/L01_JSX_Props/SafetyBroadcastCard'
+import BHYTRegistrationForm from './lessons/L02_State_Form/BHYTRegistrationForm'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-      
     </>
   )
 }
